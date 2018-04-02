@@ -8,3 +8,5 @@ gem 'github-pages', versions['github-pages']
 
 gem "jekyll"
 gem "html-proofer"
+gem 'tzinfo-data'
+gem 'classifier-reborn'
