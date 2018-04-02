@@ -1,20 +1,21 @@
 # Site settings
 
-title: Powerful New Theme for GitHub Pages | OpenTheme.co
-tagline: Amazing Websites and Hybrid Apps. Speedily!
-email: sehgal.manav@gmail.com
-copyright: Manav Sehgal
-keywords: open theme, github pages, semantic ui, single page apps
+title: First Aid Student Management System
+tagline: Because your needs are different!
+email: scott.spence@coursesales.com
+copyright: Scott Spence
+keywords: student management system, first aid, cpr, training management, sms
 timezone: Australia/Brisbane
+future: true
 
 description: > # this means to ignore newlines until "url:". One indent required.
-  Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
+  First Aid training organisations have specialist needs ranging from reduced reporting, low priced courses but with high volume and multiple trainer coordination. This specially designed system has the ability to automate the workload while maintaining control over the process completely integrated with e-commerce, via a wordpress plugin.
 
 # the base hostname & protocol for your site
-url: "http://opentheme.co"
+url: "https://scottspence.github.io"
 
-twitter_username: manavsehgal
-github_username:  manavsehgal
+twitter_username: scottspence
+github_username:  scottspence
 
 default_image: /img/opentheme-workflow.png
 
@@ -51,7 +52,7 @@ comments: disqus      # Switch disqus | facebook | none - comments. facebook = t
 
 # Embeds
 
-disqus_name: opentheme            # Your site name at Disqus
+disqus_name: firstaidsms            # Your site name at Disqus DONE
 
 youtube_controls: 0               # Turn on=1/off=0 Youtube player features when embedding videos
 
@@ -61,19 +62,19 @@ google_map_height: 450            # Default map height. Width adjusts to contain
 
 # API Keys. PLEASE DO NOT USE THESE KEYS. Get your own at links in comments.
 
-google_api_key: "AIzaSyDmt_iRsE8kQ1glUPC2GZpNLBsw1Laj9_0" # https://code.google.com/apis/console/
-google_analytics_ua: "UA-57703915-1" # Google Analytics site specific id
-google_cse_id: "012558675018178618302:kw1_r8qgyqc" # Google Custom Search Engine unique id
+google_api_key: "AIzaSyBCMRlbHjabwIAQakcbnECML2GzdhDlfSc" # https://code.google.com/apis/console/ DONE
+google_analytics_ua: "UA-116676626-1" # Google Analytics site specific id DONE
+google_cse_id: "005040542060392029899:ws57rkkec5g" # Google Custom Search Engine unique id DONE https://cse.google.com
 
-mapbox: "pk.eyJ1Ijoib3BlbnRoZW1lIiwiYSI6ImNIWC1LTUUifQ.vq4k3nfTeTtDAk7eLCrVAw"
+mapbox: "" #NOT NEEDED
 
-facebook_app: "390272554479803" # https://developers.facebook.com/
+facebook_app: "" # https://developers.facebook.com/ NOT NEEDED
 
-mailchimp_u: "cf72d9276397b3175b874eb39" # Mailchimp u=unique identification
-mailchimp_id: "3a51637dcc" # Mailchip id
+mailchimp_u: "" # Mailchimp u=unique identification DONE
+mailchimp_id: "7aa748157a" # Mailchip id DONE
 
-addthis_pubid: "ra-54a66cfa35915034" # Get your pubid at https://www.addthis.com/dashboard
+addthis_pubid: "ra-5abdcbf94c1ae79c" # Get your pubid at https://www.addthis.com/dashboard DONE
 
-pingdom_rum: "54a97d8aabe53daf361855a6" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring.
+pingdom_rum: "" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring. Costs try https://www.statuscake.com/our-pricing/
 
-uservoice: "nvdgD40UtxnMoshpVHYxg"
+uservoice: "nvdgD40UtxnMoshpVHYxg" # NOT NEEDED
