@@ -3,7 +3,7 @@ layout: post
 author: Manav Sehgal
 category: theme
 title:  "Starter Post - Media Embeds"      
-tags: media embeds
+tags: media embeds boohoo
 image: /img/embed/youtube-splash.png
 ---
 

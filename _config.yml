@@ -9,8 +9,9 @@ timezone: Australia/Brisbane
 future: true
 
 description: > # this means to ignore newlines until "url:". One indent required.
-  First Aid training organisations have specialist needs ranging from reduced reporting, low priced courses but with high volume and multiple trainer coordination. This specially designed system has the ability to automate the workload while maintaining control over the process completely integrated with e-commerce, via a wordpress plugin.
 
+  This is the first and only student management system tailored for First Aid training organisations. This system is specially designed to make the administration easy and improve customer service. It integrates e-commerce and minimises additional data entry.
+  
 # the base hostname & protocol for your site
 url: "https://scottspence.github.io"
 
@@ -75,6 +76,6 @@ mailchimp_id: "7aa748157a" # Mailchip id DONE
 
 addthis_pubid: "ra-5abdcbf94c1ae79c" # Get your pubid at https://www.addthis.com/dashboard DONE
 
-pingdom_rum: "" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring. Costs try https://www.statuscake.com/our-pricing/
+# pingdom_rum: "" # https://my.pingdom.com/dashboard. Real User experience (speed) monitoring. Costs try https://www.statuscake.com/our-pricing/
 
-uservoice: "nvdgD40UtxnMoshpVHYxg" # NOT NEEDED
+# uservoice: "nvdgD40UtxnMoshpVHYxg" # NOT NEEDED
