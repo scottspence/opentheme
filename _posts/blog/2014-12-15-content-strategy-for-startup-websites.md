@@ -4,7 +4,7 @@ author: Manav Sehgal
 category: theme
 title: Content Strategy For Startup Websites
 tags: feature content
-image: /img/opentheme-workflow.png
+image: /img/site-workflow.svg
 ---
 
 How important is your website's content strategy for your startup or small team?
